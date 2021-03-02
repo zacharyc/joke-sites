@@ -1,0 +1,46 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lobster Two', cursive;
+	font-weight: 700;
+	font-style: italic;
+}
+
+h1 {
+	font-size: 60px;
+}
+img {
+	display:block;
+	max-width:400px;
+	margin: 0 auto;
+}
+
+main {
+	max-width: 600px;
+	margin:0 auto;
+}
+
+p {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 24px;
+	line-height: 36px;
+	letter-spacing: .2rem;
+}
+
+footer {
+	
+}
+
+footer p {
+	text-align:center;
+	font-size: 14px;
+}
+
+footer a {
+	font-family:'Lobster Two', cursive;
+	font-weight:700;
+	font-style: italic;
+	color:black;
+}
+
+footer a:visited {
+	color:gray;
+}
